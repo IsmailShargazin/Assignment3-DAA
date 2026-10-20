@@ -1,0 +1,7 @@
+Java: 25.0.1
+VM: Java HotSpot(TM) 64-Bit Server VM
+OS: Mac OS X aarch64
+Available processors: 10
+Base seed: 20261020
+Warmups per case: 20
+Measured repeats per case: 5
