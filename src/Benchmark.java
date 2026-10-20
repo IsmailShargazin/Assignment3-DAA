@@ -145,7 +145,7 @@ public class Benchmark {
         );
 
         System.out.println(
-                "Next: python3 plot_results.py"
+                "Benchmark completed."
         );
     }
 
